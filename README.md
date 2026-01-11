@@ -8,7 +8,8 @@ This tutorial outlines how to create a virtual machine in Azure and use remote D
 <h2>Video Demonstration</h2>
 
 (https://www.youtube.com/watch?v=dP0vNd5K2x8)
-https://www.youtube.com/watch?v=RHGYx921Q9I
+
+(https://www.youtube.com/watch?v=RHGYx921Q9I)
 
 <h2>Environments and Technologies Used</h2>
 
