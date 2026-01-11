@@ -23,6 +23,8 @@ This tutorial outlines how to create a virtual machine in Azure and use remote D
 
 <h2>Step by Step</h2>
 
+"C:\Users\elija\OneDrive\Pictures\Screenshots 1\Screenshot 2026-01-11 142123.png"
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
